@@ -1,0 +1,51 @@
+# Add readme here! -> Todo
+
+### Installing
+
+Make sure you have Python installed, this project used V3.12,
+Open the folder in a terminal where you want the project to be saved
+
+#### Run git clone:
+
+```
+
+```
+
+#### Navigate in to the new folder:
+
+```
+cd pandas-basics
+```
+
+#### Setup a virtual enviroment:
+
+Create a virtual enviroment for the project.
+
+Linux / Mac:
+
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Windows CMD:
+
+```
+python3 -m venv venv
+venv\Scripts\activate
+```
+
+Windows PowerShell:
+
+```
+python3 -m venv venv
+.\venv\Scripts\Activate.ps1
+```
+
+#### Install the dependancies:
+
+This will install all the dependancies needed for the project in to the virtual enviroment if it is setup, rather than globaly
+
+```
+pip install -r requirements.txt
+```
