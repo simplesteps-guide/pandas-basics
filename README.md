@@ -1,4 +1,8 @@
-# Add readme here! -> Todo
+# Pandas Basics
+
+This project is a set of Jupyter Notebooks, giving examples for the guide on SimpleSteps.guide website, see the guide for more details : xxxxxxxxxxxx
+
+---
 
 ## **Installing**
 
@@ -58,8 +62,17 @@ python3 -m venv venv
 
 #### Install the dependancies:
 
-This will install all the dependancies needed for the project in to the virtual enviroment if it is setup, rather than globaly
+This will install all the dependancies needed for the project in to the virtual enviroment if it is setup, rather than globally
 
 ```
 pip install -r requirements.txt
 ```
+
+---
+
+## **Project structure**
+
+Folders:
+
+- `datafiles`: Where any files needed such as csv data files are saved.
+- `jupyter-notebooks` : Any notebooks for the sections in this guide.
