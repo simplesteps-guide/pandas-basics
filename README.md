@@ -8,7 +8,7 @@ Open the folder in a terminal where you want the project to be saved
 #### Run git clone:
 
 ```
-
+git clone https://github.com/simplesteps-guide/pandas-basics.git
 ```
 
 #### Navigate in to the new folder:
