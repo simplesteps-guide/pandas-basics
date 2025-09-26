@@ -1,8 +1,22 @@
 # Add readme here! -> Todo
 
-### Installing
+## **Installing**
 
-Make sure you have Python installed, this project used V3.12,
+**Make sure you have:**
+
+- Python installed, this project used V3.12,
+- VS Code latest
+
+**Inside VS Code:**
+
+Open Extensions (Ctrl+Shift+X or ⇧⌘X on macOS)
+Install these extensions if you don't have them:
+
+- Python extension (by Microsoft in the Extensions Marketplace)
+- Jupyter extension (also by Microsoft)
+
+**From the terminal:**
+
 Open the folder in a terminal where you want the project to be saved
 
 #### Run git clone:
