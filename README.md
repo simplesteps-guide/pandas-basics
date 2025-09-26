@@ -68,6 +68,11 @@ This will install all the dependancies needed for the project in to the virtual 
 pip install -r requirements.txt
 ```
 
+#### Select the Kernel
+
+There is a drop down at the top of the notebooks to select your kernal that will run the Python.
+If you setup a virtual enviroment then make sure you pick the venv one.
+
 ---
 
 ## **Project structure**
