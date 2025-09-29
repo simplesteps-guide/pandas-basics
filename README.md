@@ -1,6 +1,8 @@
 # Pandas Basics
 
-This project is a set of Jupyter Notebooks, giving examples for the guide on SimpleSteps.guide website, see the guide for more details : xxxxxxxxxxxx
+This project is a set of Jupyter Notebooks, giving examples for the guide on [SimpleSteps.guide](https://simplesteps.guide) website.
+
+See the guide for more details : [https://simplesteps.guide/guides/technology/machine-learning-ai/pandas-basics/what-is-pandas-how-to-install-and-use](https://simplesteps.guide/guides/technology/machine-learning-ai/pandas-basics/what-is-pandas-how-to-install-and-use)
 
 ---
 
